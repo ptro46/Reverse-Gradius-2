@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "algorithm": "Two Scale2x passes, published rules at https://www.scale2x.it/algorithm",
+  "input": [
+    256,
+    224
+  ],
+  "output": [
+    1024,
+    896
+  ],
+  "pixels": 917504,
+  "comparison": "Exact RGBA equality for all output pixels",
+  "image_sha256": "6c54645e988f20bdad5aa76c01e1668c6c475978ea3d3e949fb2ba5f80a881a6"
+}

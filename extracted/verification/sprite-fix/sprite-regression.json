@@ -1,0 +1,7 @@
+{
+  "version": "0.2.0",
+  "frames": 6,
+  "ship": "visible and identical in all six original blink phases with invulnerability enabled",
+  "enemies": "7 character-enemy/collectible cells per frame match exact compositing over a colored checkerboard",
+  "checked_pixels": 27648
+}

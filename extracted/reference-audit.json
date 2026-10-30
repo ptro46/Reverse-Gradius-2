@@ -1,0 +1,94 @@
+{
+  "url": "https://github.com/antxiko/Nemesis2-disassembly",
+  "archive_sha256": "cf3111c13acc47a1b6de7d4663d0795b7b52e5b869429e760c38ac218bcc01f9",
+  "comparison_scope": "Reference defb/defw data only. Code not rebuilt; this is not a full-ROM equivalence check.",
+  "banks": [
+    {
+      "bank": 0,
+      "reference_data_bytes": 1158,
+      "mismatching_at_same_offsets": 45
+    },
+    {
+      "bank": 1,
+      "reference_data_bytes": 1043,
+      "mismatching_at_same_offsets": 18
+    },
+    {
+      "bank": 2,
+      "reference_data_bytes": 862,
+      "mismatching_at_same_offsets": 6
+    },
+    {
+      "bank": 3,
+      "reference_data_bytes": 1120,
+      "mismatching_at_same_offsets": 647
+    },
+    {
+      "bank": 4,
+      "reference_data_bytes": 5554,
+      "mismatching_at_same_offsets": 0
+    },
+    {
+      "bank": 5,
+      "reference_data_bytes": 8192,
+      "mismatching_at_same_offsets": 0
+    },
+    {
+      "bank": 6,
+      "reference_data_bytes": 8192,
+      "mismatching_at_same_offsets": 0
+    },
+    {
+      "bank": 7,
+      "reference_data_bytes": 8192,
+      "mismatching_at_same_offsets": 0
+    },
+    {
+      "bank": 8,
+      "reference_data_bytes": 8192,
+      "mismatching_at_same_offsets": 0
+    },
+    {
+      "bank": 9,
+      "reference_data_bytes": 8192,
+      "mismatching_at_same_offsets": 0
+    },
+    {
+      "bank": 10,
+      "reference_data_bytes": 4565,
+      "mismatching_at_same_offsets": 629
+    },
+    {
+      "bank": 11,
+      "reference_data_bytes": 1800,
+      "mismatching_at_same_offsets": 0
+    },
+    {
+      "bank": 12,
+      "reference_data_bytes": 8192,
+      "mismatching_at_same_offsets": 0
+    },
+    {
+      "bank": 13,
+      "reference_data_bytes": 8192,
+      "mismatching_at_same_offsets": 0
+    },
+    {
+      "bank": 14,
+      "reference_data_bytes": 8192,
+      "mismatching_at_same_offsets": 1358
+    },
+    {
+      "bank": 15,
+      "reference_data_bytes": 8192,
+      "mismatching_at_same_offsets": 7224
+    }
+  ],
+  "adaptations": [
+    "Bank 14: generator table 99C4 and enemy table 9A64; table contents carry actual-ROM pointers",
+    "Bank 15: shape table B65E; boss5 lists B3AC and B3B9",
+    "Map terminal pointer 91A8 unchanged",
+    "Map expansion follows actual-ROM loop starts; object initial shapes overlaid"
+  ],
+  "limitations": "Enemy motions, timing, boss attacks, object animation and special weapons require further original-code porting."
+}

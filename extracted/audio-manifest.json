@@ -1,0 +1,471 @@
+[
+  {
+    "file": "01.wav",
+    "seconds": 0.28331065759637186,
+    "peak": 2765,
+    "rms": 856.1268139115368,
+    "sha256": "97482ba817b15f63a9d2350d9f7d3daacbe5e41cd1bf0494892c6c1eb762a3f7"
+  },
+  {
+    "file": "02.wav",
+    "seconds": 0.44997732426303855,
+    "peak": 3816,
+    "rms": 991.3020048326975,
+    "sha256": "bec1017b6de801bcc90c4a7b20bc87e832f7535c7aa2e180d3ab502afc92dd07"
+  },
+  {
+    "file": "03.wav",
+    "seconds": 0.5833106575963719,
+    "peak": 3627,
+    "rms": 939.8427903703378,
+    "sha256": "f09665b050424911bea1f425099c1260558849c7578d78d5e56340b693411078"
+  },
+  {
+    "file": "04.wav",
+    "seconds": 0.3166439909297052,
+    "peak": 4100,
+    "rms": 1387.3972194003725,
+    "sha256": "5f8a2ec5c6322774f2475ae4080281d21c1a30258f5898de16fb190d348056ce"
+  },
+  {
+    "file": "05.wav",
+    "seconds": 0.3833106575963719,
+    "peak": 3786,
+    "rms": 1034.3219822508584,
+    "sha256": "65b6cfccd6731d02a45fbd7bc7b8f5f1be9232f72165e34ba3b215dc4dc68262"
+  },
+  {
+    "file": "06.wav",
+    "seconds": 0.9,
+    "peak": 5303,
+    "rms": 1207.7304053150267,
+    "sha256": "f5db4d987c6cfc72496d39860bbc44d7078709d9725e2efd3093d6aa5efb95f1"
+  },
+  {
+    "file": "07.wav",
+    "seconds": 0.9,
+    "peak": 4501,
+    "rms": 861.3405480018627,
+    "sha256": "bfeb07e15ff0a07939ba2222789d8a4424ca661046d8f8eef333b3d11d223ff8"
+  },
+  {
+    "file": "08.wav",
+    "seconds": 0.7,
+    "peak": 3584,
+    "rms": 1208.2120273146786,
+    "sha256": "ae04dd80fe682944647177e98b3831ed1bd2bab270ea7c8e6062930b1f69356e"
+  },
+  {
+    "file": "09.wav",
+    "seconds": 1.1833106575963719,
+    "peak": 6121,
+    "rms": 2422.1280109541526,
+    "sha256": "76582768cc809eaf233cf68ebf31741e6d0ebdf2cd8a9251224a347a069648fa"
+  },
+  {
+    "file": "0a.wav",
+    "seconds": 0.6499773242630386,
+    "peak": 4741,
+    "rms": 1344.0171534017015,
+    "sha256": "ecb74403f617060609d87f654834f07a75f83c28679b201e497de1ac8ba27af5"
+  },
+  {
+    "file": "0b.wav",
+    "seconds": 0.9666666666666667,
+    "peak": 5741,
+    "rms": 1868.5156678709045,
+    "sha256": "b89c19256827b2254665256a622d4e2b3328efc44e7499622113550239ae7aaf"
+  },
+  {
+    "file": "0c.wav",
+    "seconds": 1.283310657596372,
+    "peak": 6174,
+    "rms": 1925.8218973141252,
+    "sha256": "106eaa4b73b6573361ccf23da057c9e5630efbb5e4b4871bfa4ce76e9586ed08"
+  },
+  {
+    "file": "0d.wav",
+    "seconds": 0.5499773242630386,
+    "peak": 5920,
+    "rms": 1498.2663918404535,
+    "sha256": "0257f1d90a255cc61ef60cac856dc4376fa44fc963dbe0155db7b8983ee7eb73"
+  },
+  {
+    "file": "0e.wav",
+    "seconds": 0.5166439909297053,
+    "peak": 3306,
+    "rms": 936.6293481024528,
+    "sha256": "0503e3265ddd817823797bcac1f0e2d9dd5bcb5c2bf312b795bcb1e650853d5e"
+  },
+  {
+    "file": "0f.wav",
+    "seconds": 1.6333333333333333,
+    "peak": 5646,
+    "rms": 2028.243714231705,
+    "sha256": "b586d54684f334da9882285bca2e2e80ac41f7d731185c62ef3e48f793947b06"
+  },
+  {
+    "file": "10.wav",
+    "seconds": 1.9,
+    "peak": 5230,
+    "rms": 2018.4445748709559,
+    "sha256": "02730362df21bfa59342c9396dbc03155a7285ce7094f253c8c1b8f904d9c3d9"
+  },
+  {
+    "file": "11.wav",
+    "seconds": 0.5333333333333333,
+    "peak": 3916,
+    "rms": 1277.205536672999,
+    "sha256": "74a3a513ae3d3650ded1c1bbd2109f23163a2d8299f80c63c656654632e7c73c"
+  },
+  {
+    "file": "12.wav",
+    "seconds": 0.7,
+    "peak": 3804,
+    "rms": 1392.0144274559607,
+    "sha256": "c89090c212eade2a1ddbf31bd82ce848d836ccc5fcdd62489284c26209bebb18"
+  },
+  {
+    "file": "13.wav",
+    "seconds": 1.2333333333333334,
+    "peak": 5205,
+    "rms": 1729.6654002970458,
+    "sha256": "02c83f6f9e12d1c080719ee8033fa55c5fcc4e49a0a5a7ad83017f4d24dccf08"
+  },
+  {
+    "file": "14.wav",
+    "seconds": 0.5833106575963719,
+    "peak": 2153,
+    "rms": 1074.0367689011584,
+    "sha256": "f7bd93f091a6d11cbb4e470e48a7b76ab6fb048664cab1aa2fc8cf3ffa27a24f"
+  },
+  {
+    "file": "15.wav",
+    "seconds": 0.34997732426303857,
+    "peak": 5611,
+    "rms": 1427.0281328072153,
+    "sha256": "17ca258764ed25980d7c71e2b4ec7c1c48c95317125870fad2d017af208e80e0"
+  },
+  {
+    "file": "16.wav",
+    "seconds": 0.8333333333333334,
+    "peak": 5431,
+    "rms": 1309.5528545073312,
+    "sha256": "9918541d7125db1ab3ccea9868a8915e0e6afa6141f3a86304997cad6f1d5784"
+  },
+  {
+    "file": "17.wav",
+    "seconds": 1.2499773242630385,
+    "peak": 5564,
+    "rms": 1550.4836629373522,
+    "sha256": "624177cc42457bf9a4e68b60da01e46612e0d48bd366d4315806ee12758148db"
+  },
+  {
+    "file": "18.wav",
+    "seconds": 1.3,
+    "peak": 4501,
+    "rms": 1723.009523216287,
+    "sha256": "1fe606348a4ebcabba59b1e5bb6083b4bc8c24a05e1f9db4cef5cf5faa448150"
+  },
+  {
+    "file": "19.wav",
+    "seconds": 0.7166439909297052,
+    "peak": 4500,
+    "rms": 1995.7694793187998,
+    "sha256": "4cd4f80553b59ff07a740f6057d16904380aac07f6d3d6b7a5c5a7cb1ddc468f"
+  },
+  {
+    "file": "1a.wav",
+    "seconds": 0.7166439909297052,
+    "peak": 3673,
+    "rms": 1022.0193571474084,
+    "sha256": "ebdf675d1dc17fc1b1d6b52c717b1fee352171652abd7841b9bf6f87a986edbe"
+  },
+  {
+    "file": "1b.wav",
+    "seconds": 0.9,
+    "peak": 3684,
+    "rms": 865.6336053289111,
+    "sha256": "c63f2d2e75bb00ff57c42090ee9dd2cc1a32add5343ab0c837b34e9e60ef3a24"
+  },
+  {
+    "file": "1c.wav",
+    "seconds": 0.6333333333333333,
+    "peak": 4943,
+    "rms": 1636.466259541569,
+    "sha256": "234cd34de44e399a80befed546693955ca5dc9139201f65c03d1509a02756272"
+  },
+  {
+    "file": "1d.wav",
+    "seconds": 0.7833106575963719,
+    "peak": 4965,
+    "rms": 1356.0045304249973,
+    "sha256": "0e522a9058109af95c5ada4205f683d69285d0fb31f82d2519ac67518ece0706"
+  },
+  {
+    "file": "1e.wav",
+    "seconds": 0.9,
+    "peak": 6634,
+    "rms": 2245.7514714689464,
+    "sha256": "bc94f232e8524332f2f76b98cba5db48303dab8d3a33f096367a8eae8131eb99"
+  },
+  {
+    "file": "1f.wav",
+    "seconds": 0.7833106575963719,
+    "peak": 5995,
+    "rms": 1765.1908812062115,
+    "sha256": "fd97ee65879810cf6b81c61ea9d7926f8dcd8bcac791dbae5a8907996a6c914c"
+  },
+  {
+    "file": "20.wav",
+    "seconds": 0.36666666666666664,
+    "peak": 2027,
+    "rms": 645.1218155955729,
+    "sha256": "6d597a563c15fa1398fe71adefca6780f17de2a578adf05e2700168078f49540"
+  },
+  {
+    "file": "21.wav",
+    "seconds": 1.3333333333333333,
+    "peak": 3411,
+    "rms": 940.9906897505836,
+    "sha256": "50076861ef57190db7aba810b3105ef1ab90f55de81da4b8cc05cf82532e2c0d"
+  },
+  {
+    "file": "22.wav",
+    "seconds": 5.0,
+    "peak": 2608,
+    "rms": 361.8749449747157,
+    "sha256": "1fd46fd1427517fe9f5e2ab50253049df4ceb6c297f0d88bba5bd50805b142cc"
+  },
+  {
+    "file": "23.wav",
+    "seconds": 0.6833106575963719,
+    "peak": 4250,
+    "rms": 1851.0517234022823,
+    "sha256": "018d86f5fc1da87e7d8e67542ec712e011dd4e0a8911c62089454ad3ce233209"
+  },
+  {
+    "file": "24.wav",
+    "seconds": 0.3,
+    "peak": 5004,
+    "rms": 1353.6278763620373,
+    "sha256": "06fbe8c63037a571fefd8e37bdf0f147032c40c126cd93becc57b7b01d232933"
+  },
+  {
+    "file": "25.wav",
+    "seconds": 0.8499773242630385,
+    "peak": 3731,
+    "rms": 1014.01695231159,
+    "sha256": "b56e3b1d8a98e50d7ae5b62f695d4d6edd5ead35b38e67fc750987a474fed863"
+  },
+  {
+    "file": "26.wav",
+    "seconds": 0.8333333333333334,
+    "peak": 5211,
+    "rms": 1958.3199860410687,
+    "sha256": "3ee4a8c3bb8acc04e3eaa66470dba2845a2b3ccc450e0adf98c75f6e4dac36c0"
+  },
+  {
+    "file": "27.wav",
+    "seconds": 0.6166439909297052,
+    "peak": 5867,
+    "rms": 1623.6429577623855,
+    "sha256": "9ffe588a5936db4b6987bd74edce415cb96a0741048e0cf4ec0bbc8cd109ec2f"
+  },
+  {
+    "file": "28.wav",
+    "seconds": 11.266666666666667,
+    "peak": 4433,
+    "rms": 1289.1194333077613,
+    "sha256": "4798648f614bbaa3ff7cfcfdbdeafd175d8986d5ad474fb1a2ee4ec2c6c1bf5a"
+  },
+  {
+    "file": "29.wav",
+    "seconds": 48.01664399092971,
+    "peak": 14373,
+    "rms": 1871.8213650977925,
+    "sha256": "0a0aa1d6234a142f06e0ec894f8915993234526927a27e74f5bba175f8f6bc30"
+  },
+  {
+    "file": "2a.wav",
+    "seconds": 0.03333333333333333,
+    "peak": 0,
+    "rms": 0.0,
+    "sha256": "316b8406c160fb80e8ce82d90f816c76d698f4b56e5d06c130ee3e6079a15635"
+  },
+  {
+    "file": "2b.wav",
+    "seconds": 66.14997732426303,
+    "peak": 13533,
+    "rms": 1982.1377256544004,
+    "sha256": "ac8841b93be3e970ef66413e12d83e32de8b9b4171d65ebaee6eb6acbfef67df"
+  },
+  {
+    "file": "2c.wav",
+    "seconds": 64.01664399092971,
+    "peak": 13062,
+    "rms": 1819.290570511619,
+    "sha256": "9efc37903e3ad41e2c938d09ed421fab554eed94e8a361cd32787d14cc659c80"
+  },
+  {
+    "file": "2d.wav",
+    "seconds": 59.166666666666664,
+    "peak": 14185,
+    "rms": 1699.982673489529,
+    "sha256": "db17a18790c2e00ce0a0c4a53727ce2cf721aaa0df00aa2839930d9314763523"
+  },
+  {
+    "file": "2e.wav",
+    "seconds": 19.24997732426304,
+    "peak": 9015,
+    "rms": 1794.867411203273,
+    "sha256": "c2e7e157e08f776494af24a851aefe5aa56838be91e7c4fef0ff0dad7c19f7f0"
+  },
+  {
+    "file": "2f.wav",
+    "seconds": 0.03333333333333333,
+    "peak": 0,
+    "rms": 0.0,
+    "sha256": "316b8406c160fb80e8ce82d90f816c76d698f4b56e5d06c130ee3e6079a15635"
+  },
+  {
+    "file": "30.wav",
+    "seconds": 75.0,
+    "peak": 14745,
+    "rms": 1966.5765779057135,
+    "sha256": "d5bc7d900722d754919292f2525943754be49a09d9c1cdf254c7ab2180a6b46f"
+  },
+  {
+    "file": "31.wav",
+    "seconds": 57.01664399092971,
+    "peak": 12964,
+    "rms": 1890.8335659160443,
+    "sha256": "a0e4b221822d0b12c32d41a4eb3764eb8a96bf97f73fced7fbbeb87ba0d4e9ee"
+  },
+  {
+    "file": "32.wav",
+    "seconds": 64.01664399092971,
+    "peak": 12979,
+    "rms": 2122.8656344953633,
+    "sha256": "fd9b14f201e1d5d7d24888ce00702d13f6f5d13d1624fbe9816a39b0b9bae4f4"
+  },
+  {
+    "file": "33.wav",
+    "seconds": 42.68331065759637,
+    "peak": 8889,
+    "rms": 1623.1695664065733,
+    "sha256": "b1cbc021873e0fced0c140c2bc1dd04ab8406535e60ac6b81621b8bf6a4ff10b"
+  },
+  {
+    "file": "34.wav",
+    "seconds": 25.616643990929706,
+    "peak": 10456,
+    "rms": 1936.4647094217846,
+    "sha256": "beac6ddc4cb8dc746db3a6bbe0460374e2ee8a21fd7044ad4ebeebf640d1a2fa"
+  },
+  {
+    "file": "35.wav",
+    "seconds": 13.216643990929706,
+    "peak": 16068,
+    "rms": 1962.8102020126378,
+    "sha256": "927424163c8af3f14245d33e9fb08d58d1cc4690afb617c09e0df2beb3c121e6"
+  },
+  {
+    "file": "36.wav",
+    "seconds": 50.833333333333336,
+    "peak": 12645,
+    "rms": 1784.7632768223757,
+    "sha256": "bbacf4864dea76c9213c962b191997d2ca185185ea230b182fbcf8da0598b4f0"
+  },
+  {
+    "file": "37.wav",
+    "seconds": 11.233333333333333,
+    "peak": 9300,
+    "rms": 3032.535777493348,
+    "sha256": "b9359744f7b4be8efdc44f387876f51ed736e8cc94cdb1b0843d52747a6e09b8"
+  },
+  {
+    "file": "38.wav",
+    "seconds": 4.716643990929705,
+    "peak": 7974,
+    "rms": 2502.1700476845804,
+    "sha256": "d74839e09b731124a5155cf7c96c8f66dac86bfb06e4fe1bbba049f6a36640e0"
+  },
+  {
+    "file": "39.wav",
+    "seconds": 10.483310657596371,
+    "peak": 12010,
+    "rms": 3252.6530607794984,
+    "sha256": "d11c34260ec199e7109c7833a504fb2dcdd2429a39d6d6bfecc4c2474c82362d"
+  },
+  {
+    "file": "3a.wav",
+    "seconds": 14.64997732426304,
+    "peak": 7636,
+    "rms": 1816.9983490930174,
+    "sha256": "d98ef48142ad2bcc30a7c8fb6b8d12ed59a094bd4a365b68e9a109f3c5ba9910"
+  },
+  {
+    "file": "3b.wav",
+    "seconds": 3.2166439909297053,
+    "peak": 13719,
+    "rms": 3059.4516952845197,
+    "sha256": "32bac9ca3eb3386cfee837683077dc1329da0bc7cd93d6f1578b813b69aeef3b"
+  },
+  {
+    "file": "3c.wav",
+    "seconds": 2.7,
+    "peak": 11156,
+    "rms": 1884.1147890290579,
+    "sha256": "63982d0b5d898dededc828e84df9c229e933a3cbf6f67a85330b4c308dc01336"
+  },
+  {
+    "file": "3d.wav",
+    "seconds": 1.8499773242630386,
+    "peak": 22814,
+    "rms": 3377.13654514557,
+    "sha256": "7cdbd9f1f17e8b0fe70ca16dfc9a181ff80d1f02518025befe80c9e1299a466e"
+  },
+  {
+    "file": "3e.wav",
+    "seconds": 5.916643990929705,
+    "peak": 11436,
+    "rms": 2074.6697462785787,
+    "sha256": "f25f238885faace67cd85b29e6d041e302cc12adf5d4d1d09559c09e95fb56b8"
+  },
+  {
+    "file": "3f.wav",
+    "seconds": 75.0,
+    "peak": 16638,
+    "rms": 1535.2255005417053,
+    "sha256": "d034a5b63ce16bdf148bba84dfa07c30d60f11c4871995a8d06188864c2ccd32"
+  },
+  {
+    "file": "40.wav",
+    "seconds": 75.0,
+    "peak": 13038,
+    "rms": 1756.7654883463808,
+    "sha256": "d7494695f7f0eed5015af071c4db82a2b930286e335cc646064aa32568de5c5e"
+  },
+  {
+    "file": "41.wav",
+    "seconds": 75.0,
+    "peak": 16592,
+    "rms": 1790.621489492292,
+    "sha256": "6cb4af24725fbee6b834ea7d4f37ff77dc9892f3e237e7adebb7f588d8644cbe"
+  },
+  {
+    "file": "42.wav",
+    "seconds": 5.783310657596372,
+    "peak": 11634,
+    "rms": 1660.6093709436007,
+    "sha256": "b4ab894322d5f0a49242df5607bb04e870147e8525341ab74b6d6f06ed070951"
+  },
+  {
+    "file": "5b.wav",
+    "seconds": 55.54997732426304,
+    "peak": 2284,
+    "rms": 1124.334956769388,
+    "sha256": "3c204c613bf53e81f5d205af07024c484569cfb2877fff9b05bc033e3ebdfec5"
+  }
+]
