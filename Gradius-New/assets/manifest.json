@@ -1,0 +1,369 @@
+{
+  "project": "Astra Fracture",
+  "version": "0.1.2",
+  "assets": [
+    {
+      "file": "fractured-moon.png",
+      "origin": "Original image generated for Astra Fracture with OpenAI imagegen; no ROM assets",
+      "width": 1672,
+      "height": 941,
+      "mode": "RGB",
+      "bytes": 2165515,
+      "sha256": "147c058b0115027280080857815664f318f348c895a763ac5d756476ff52601f"
+    },
+    {
+      "file": "solar-forge.png",
+      "origin": "Original image generated for Astra Fracture with OpenAI imagegen; no ROM assets",
+      "width": 1672,
+      "height": 941,
+      "mode": "RGB",
+      "bytes": 2292724,
+      "sha256": "ed35a5c4e3b5e86fff3e9f26c7aa2bc5020c2e0ff5c00e30d0921a733ef24853"
+    },
+    {
+      "file": "glass-cathedral.png",
+      "origin": "Original image generated for Astra Fracture with OpenAI imagegen; no ROM assets",
+      "width": 1672,
+      "height": 941,
+      "mode": "RGB",
+      "bytes": 2343446,
+      "sha256": "f9bbb51eac53f1ebb220cce7b146c5e74d1977755e81a9b9fde5eb89ef5c9af6"
+    },
+    {
+      "file": "interceptor.png",
+      "origin": "Original image generated for Astra Fracture with OpenAI imagegen; no ROM assets",
+      "width": 1902,
+      "height": 827,
+      "mode": "RGBA",
+      "transparent_corners": true,
+      "bytes": 1459837,
+      "sha256": "c6beee5344823ae35ed36b33b82794341b33f4f92cc966a8402d33464f7699e0"
+    },
+    {
+      "file": "enemy-scout.png",
+      "origin": "Original image generated for Astra Fracture with OpenAI imagegen; no ROM assets",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGBA",
+      "transparent_corners": true,
+      "bytes": 1275968,
+      "sha256": "bb8be188f8d566eacecf4b6de5fc3bb39a6ab8e9e41e927e497ae906241bdc44"
+    },
+    {
+      "file": "enemy-weaver.png",
+      "origin": "Original image generated for Astra Fracture with OpenAI imagegen; no ROM assets",
+      "width": 1331,
+      "height": 1181,
+      "mode": "RGBA",
+      "transparent_corners": true,
+      "bytes": 1656994,
+      "sha256": "c08c9530b503d223becaed3fd74e922c950a6e36e865525ff4a7317ea3691424"
+    },
+    {
+      "file": "enemy-lancer.png",
+      "origin": "Original image generated for Astra Fracture with OpenAI imagegen; no ROM assets",
+      "width": 1683,
+      "height": 935,
+      "mode": "RGBA",
+      "transparent_corners": true,
+      "bytes": 1718846,
+      "sha256": "4c6fbbba53b3ad6a8bbced103df1c560cefbf52f81ff190c00183098a6a25612"
+    },
+    {
+      "file": "enemy-carrier.png",
+      "origin": "Original image generated for Astra Fracture with OpenAI imagegen; no ROM assets",
+      "width": 1683,
+      "height": 935,
+      "mode": "RGBA",
+      "transparent_corners": true,
+      "bytes": 1788540,
+      "sha256": "6473685ebc9520eed1e7991427c71ba0f7a104da183a0ea0ac9f436c15caa40b"
+    },
+    {
+      "file": "enemy-turret.png",
+      "origin": "Original image generated for Astra Fracture with OpenAI imagegen; no ROM assets",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGBA",
+      "transparent_corners": true,
+      "bytes": 2367947,
+      "sha256": "842d8b967494fa3eaa9a8c1fc80005015721a80349aae31a7e139bf4bed1fc93"
+    },
+    {
+      "file": "boss-sentinel.png",
+      "origin": "Original image generated for Astra Fracture with OpenAI imagegen; no ROM assets",
+      "width": 1681,
+      "height": 936,
+      "mode": "RGBA",
+      "transparent_corners": true,
+      "bytes": 2073851,
+      "sha256": "feda3694e396e799afe3921db5e43f48f2a4badafaa8d15500413f1419140f55"
+    },
+    {
+      "file": "boss-solstice.png",
+      "origin": "Original image generated for Astra Fracture with OpenAI imagegen; no ROM assets",
+      "width": 1268,
+      "height": 1240,
+      "mode": "RGBA",
+      "transparent_corners": true,
+      "bytes": 2930686,
+      "sha256": "28eb57d5a65d354958081274f6478fd4f1e314d3312c99edf6ad53418adbcb08"
+    },
+    {
+      "file": "boss-choir.png",
+      "origin": "Original image generated for Astra Fracture with OpenAI imagegen; no ROM assets",
+      "width": 1308,
+      "height": 1202,
+      "mode": "RGBA",
+      "transparent_corners": true,
+      "bytes": 2240053,
+      "sha256": "b22ff9eaf42c8138b000064a60e85f176d63f1fe7ff75f3418c1034a6eaf418b"
+    },
+    {
+      "file": "audio/boss.wav",
+      "origin": "Original composition and PCM synthesis in src/audio.rs; no external samples",
+      "frames": 1144216,
+      "seconds": 25.946,
+      "channels": 2,
+      "sample_rate": 44100,
+      "peak": 15449,
+      "rms": 2998.19,
+      "bytes": 4576908,
+      "sha256": "136dccf19304c932ad930e867abea7b1827e9f5a83e8ff13e7753e51b6ecce1c"
+    },
+    {
+      "file": "audio/menu.wav",
+      "origin": "Original composition and PCM synthesis in src/audio.rs; no external samples",
+      "frames": 1764000,
+      "seconds": 40.0,
+      "channels": 2,
+      "sample_rate": 44100,
+      "peak": 7467,
+      "rms": 1707.75,
+      "bytes": 7056044,
+      "sha256": "bf4d1ef9e546d66b1e672fb87a426639152756c1e8412ade6abdd8be941d5c05"
+    },
+    {
+      "file": "audio/sector1.wav",
+      "origin": "Original composition and PCM synthesis in src/audio.rs; no external samples",
+      "frames": 1365677,
+      "seconds": 30.968,
+      "channels": 2,
+      "sample_rate": 44100,
+      "peak": 16764,
+      "rms": 2887.56,
+      "bytes": 5462752,
+      "sha256": "14f3e444e7a7238d83caf776aa56ecf9cb14af162d563b2c96b4bc5de2c64d25"
+    },
+    {
+      "file": "audio/sector2.wav",
+      "origin": "Original composition and PCM synthesis in src/audio.rs; no external samples",
+      "frames": 1282909,
+      "seconds": 29.091,
+      "channels": 2,
+      "sample_rate": 44100,
+      "peak": 17056,
+      "rms": 2881.67,
+      "bytes": 5131680,
+      "sha256": "dbf669668927e4e92df5192a33896dfca727b2f8787e277a6772994d5d64f3d0"
+    },
+    {
+      "file": "audio/sector3.wav",
+      "origin": "Original composition and PCM synthesis in src/audio.rs; no external samples",
+      "frames": 1209600,
+      "seconds": 27.429,
+      "channels": 2,
+      "sample_rate": 44100,
+      "peak": 16402,
+      "rms": 2936.82,
+      "bytes": 4838444,
+      "sha256": "e1b2e90f824ea698b21006b2d4214729efff3808a289e785ade5320a1e7539f0"
+    },
+    {
+      "file": "audio/sfx-beam.wav",
+      "origin": "Original composition and PCM synthesis in src/audio.rs; no external samples",
+      "frames": 8379,
+      "seconds": 0.19,
+      "channels": 2,
+      "sample_rate": 44100,
+      "peak": 3453,
+      "rms": 898.11,
+      "bytes": 33560,
+      "sha256": "0e24c6f92ab3cf18c0846e37a3d9ce8700d61d3813f7b57bf1abe8615b277edf"
+    },
+    {
+      "file": "audio/sfx-boss.wav",
+      "origin": "Original composition and PCM synthesis in src/audio.rs; no external samples",
+      "frames": 79380,
+      "seconds": 1.8,
+      "channels": 2,
+      "sample_rate": 44100,
+      "peak": 9555,
+      "rms": 2417.18,
+      "bytes": 317564,
+      "sha256": "cf53716d7c36cb13f9b30cb8321ec4b3091d7e97ed339671eb956e4c5edb3d8f"
+    },
+    {
+      "file": "audio/sfx-clear.wav",
+      "origin": "Original composition and PCM synthesis in src/audio.rs; no external samples",
+      "frames": 123480,
+      "seconds": 2.8,
+      "channels": 2,
+      "sample_rate": 44100,
+      "peak": 7987,
+      "rms": 2082.72,
+      "bytes": 493964,
+      "sha256": "791631e2dc7f3f216a76a159fa259e64b5d5c1f389c7e1acdc49482d3db0b885"
+    },
+    {
+      "file": "audio/sfx-dash.wav",
+      "origin": "Original composition and PCM synthesis in src/audio.rs; no external samples",
+      "frames": 19845,
+      "seconds": 0.45,
+      "channels": 2,
+      "sample_rate": 44100,
+      "peak": 6696,
+      "rms": 1157.98,
+      "bytes": 79424,
+      "sha256": "8faa33534c69d84aa63413cdec913c4187bb5da339a174cb070d6547519dccb3"
+    },
+    {
+      "file": "audio/sfx-death.wav",
+      "origin": "Original composition and PCM synthesis in src/audio.rs; no external samples",
+      "frames": 70560,
+      "seconds": 1.6,
+      "channels": 2,
+      "sample_rate": 44100,
+      "peak": 15511,
+      "rms": 1605.97,
+      "bytes": 282284,
+      "sha256": "949e955011379245d198a680007c55238547caf915fcb2256dbb544d1d166ae2"
+    },
+    {
+      "file": "audio/sfx-explosion.wav",
+      "origin": "Original composition and PCM synthesis in src/audio.rs; no external samples",
+      "frames": 35280,
+      "seconds": 0.8,
+      "channels": 2,
+      "sample_rate": 44100,
+      "peak": 15775,
+      "rms": 2133.14,
+      "bytes": 141164,
+      "sha256": "868adf3fe854fdc8a8ece38f48f8469a94bb8f24b2e4ad853ffb0e58a27117a8"
+    },
+    {
+      "file": "audio/sfx-hit.wav",
+      "origin": "Original composition and PCM synthesis in src/audio.rs; no external samples",
+      "frames": 9702,
+      "seconds": 0.22,
+      "channels": 2,
+      "sample_rate": 44100,
+      "peak": 10743,
+      "rms": 1657.36,
+      "bytes": 38852,
+      "sha256": "ea661e0886df1ddbc768a8aa292256c33da5037aa5f3423fc85452cab3b36b7b"
+    },
+    {
+      "file": "audio/sfx-missile.wav",
+      "origin": "Original composition and PCM synthesis in src/audio.rs; no external samples",
+      "frames": 16758,
+      "seconds": 0.38,
+      "channels": 2,
+      "sample_rate": 44100,
+      "peak": 6350,
+      "rms": 1865.78,
+      "bytes": 67076,
+      "sha256": "bc0a6c2e31a36aed46c189b888166800fc6993aa8870c67b4394f5cc1ceb407b"
+    },
+    {
+      "file": "audio/sfx-overdrive.wav",
+      "origin": "Original composition and PCM synthesis in src/audio.rs; no external samples",
+      "frames": 66150,
+      "seconds": 1.5,
+      "channels": 2,
+      "sample_rate": 44100,
+      "peak": 9555,
+      "rms": 2645.47,
+      "bytes": 264644,
+      "sha256": "9509729746a411a8a87eb0c989e19c6399546a1a4b08fdcf9cfc100df8416e8f"
+    },
+    {
+      "file": "audio/sfx-pickup.wav",
+      "origin": "Original composition and PCM synthesis in src/audio.rs; no external samples",
+      "frames": 14994,
+      "seconds": 0.34,
+      "channels": 2,
+      "sample_rate": 44100,
+      "peak": 7005,
+      "rms": 2768.19,
+      "bytes": 60020,
+      "sha256": "0664d963423512fc263018e35e0abb9fe880eabed95a6342faf72b4572e8303b"
+    },
+    {
+      "file": "audio/sfx-select.wav",
+      "origin": "Original composition and PCM synthesis in src/audio.rs; no external samples",
+      "frames": 7938,
+      "seconds": 0.18,
+      "channels": 2,
+      "sample_rate": 44100,
+      "peak": 7005,
+      "rms": 3388.08,
+      "bytes": 31796,
+      "sha256": "70090fa9e83be7e9ad15841cd1de41710800dce86d9e7c920b3a8bf3a873f099"
+    },
+    {
+      "file": "audio/sfx-shot.wav",
+      "origin": "Original composition and PCM synthesis in src/audio.rs; no external samples",
+      "frames": 5733,
+      "seconds": 0.13,
+      "channels": 2,
+      "sample_rate": 44100,
+      "peak": 7134,
+      "rms": 1955.49,
+      "bytes": 22976,
+      "sha256": "45a4730791f4d4a50786f6e4434739aa6b82df24b44429a24d3b155df37a64e6"
+    },
+    {
+      "file": "audio/sfx-upgrade.wav",
+      "origin": "Original composition and PCM synthesis in src/audio.rs; no external samples",
+      "frames": 39690,
+      "seconds": 0.9,
+      "channels": 2,
+      "sample_rate": 44100,
+      "peak": 7005,
+      "rms": 1767.12,
+      "bytes": 158804,
+      "sha256": "ce7dd3375cf118b447aa4177f8cad9ea1dea536c46bbe273b94d17fe15383a6d"
+    },
+    {
+      "file": "Rajdhani-SemiBold.ttf",
+      "origin": "Google Fonts; SIL Open Font License 1.1; see adjacent OFL text",
+      "bytes": 390340,
+      "sha256": "94bbd25a18ca665999feb05a537de9fd2b860dcfb78bbe9ca00270825bf235da"
+    },
+    {
+      "file": "ShareTechMono-Regular.ttf",
+      "origin": "Google Fonts; SIL Open Font License 1.1; see adjacent OFL text",
+      "bytes": 43272,
+      "sha256": "9ceab1f87414829af259c0f537573ae03ef7dd3147c0b27a36a1a0beb6732677"
+    },
+    {
+      "file": "OFL-Rajdhani.txt",
+      "origin": "Google Fonts; SIL Open Font License 1.1; see adjacent OFL text",
+      "bytes": 4373,
+      "sha256": "f62ef357d3a1c3d27edd35a6e1ba350e8a8d13499797964eeadefbf0b3b15d1f"
+    },
+    {
+      "file": "OFL-ShareTechMono.txt",
+      "origin": "Google Fonts; SIL Open Font License 1.1; see adjacent OFL text",
+      "bytes": 4429,
+      "sha256": "9d96f445b6e9c701428811d0177f894874f8d6f07ecc30d568c506542368f3ff"
+    },
+    {
+      "file": "app-icon.png",
+      "origin": "Original procedural monogram generated by tools/make_icon.py",
+      "bytes": 70949,
+      "sha256": "b9f809b33a00e0468ada4d9512aebc28dae6cb4b86ae0195659fe26d44078b78"
+    }
+  ]
+}
